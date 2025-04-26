@@ -20,7 +20,6 @@ Antes de rodar o projeto, certifique-se de ter os seguintes componentes e softwa
 
 ### Software:
 - Arduino IDE (para programação do Arduino)
-- Bibliotecas necessárias: `NewPing` (opcional, se preferir uma biblioteca para o sensor ultrassônico)
 
 ## Instalação
 
